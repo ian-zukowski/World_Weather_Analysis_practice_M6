@@ -1,9 +1,10 @@
 # Adding config.py file.
 config.py
+google_api.py
 
 # Adding additional files.
 API_practice.ipynb
-random_number.ipynb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
